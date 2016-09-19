@@ -33,6 +33,7 @@ Plans are made to fit a cheap drillpress from Jula, available in the Scandinavia
 
 http://www.jula.no/catalog/verktoy-og-maskiner/el-verktoy-og-maskiner/boremaskiner/stasjonare-boremaskiner/soyleboremaskin-254017/
 
+A quick Google images search for 350W drillpress shows many very similar machines.
 
 ## Costs
 The project goal was to keep it below 1000 NOK total, it can probably be done by using less bearings.
