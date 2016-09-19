@@ -32,3 +32,13 @@ Plans are made to fit a cheap drillpress from Jula, available in the Scandinavia
 
 http://www.jula.no/catalog/verktoy-og-maskiner/el-verktoy-og-maskiner/boremaskiner/stasjonare-boremaskiner/soyleboremaskin-254017/
 
+
+## Costs
+The project goal was to keep it below 1000 NOK total, but and I believe it can be done if one would use less bearings. I the initial design uses unnecessary many of them, but it's a relatively small cost.
+
+Current cost with drillpress is approximately 1300 NOK (150 USD)
+
+Bearings 360 NOK (~45 USD)
+Threaded rot + nuts are 100 NOK (~12  USD)
+Drillpress 800 NOK (~100 USD)
+3D Printer filament (have no idea how much, probably 200 meters total).
