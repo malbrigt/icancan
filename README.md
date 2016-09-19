@@ -1,7 +1,7 @@
 # icancan
 Attempting to create an affordable DIY beer can seamer using 3D printed parts and a cheap drillpress.
 
-![machine](https://raw.githubusercontent.com/malbrigt/icancan/master/CompletedMachine_rev1.jpg "Completed Machine")
+![machine](https://raw.githubusercontent.com/malbrigt/icancan/master/CompletedMachine_rev1.JPG "Completed Machine")
 
 ![3d model](https://raw.githubusercontent.com/malbrigt/icancan/master/CompleteModel_rev1.png "3D Model")
 
