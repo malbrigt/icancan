@@ -42,3 +42,11 @@ Bearings 360 NOK (~45 USD)
 Threaded rot + nuts are 100 NOK (~12  USD)
 Drillpress 800 NOK (~100 USD)
 3D Printer filament (have no idea how much, probably 200 meters total).
+
+
+## Next revision
+If this thing works, the following things needs to be fixed before I would recommend other to build it.
+
+   Remove 45 degree nut mounts, instead have plain surface and use locknuts. Getting these things fitted in rev1 was a nightmare.
+   Try to use less bearings.
+   Determine if PLA printed rollers are strong enough, if not print in stronger material.
