@@ -36,7 +36,7 @@ http://www.jula.no/catalog/verktoy-og-maskiner/el-verktoy-og-maskiner/boremaskin
 
 
 ## Costs
-The project goal was to keep it below 1000 NOK total, but and I believe it can be done if one would use less bearings. I the initial design uses unnecessary many of them, but it's a relatively small cost.
+The project goal was to keep it below 1000 NOK total, it can probably be done by using less bearings.
 
 Current cost with drillpress is approximately 1300 NOK (150 USD)
 
