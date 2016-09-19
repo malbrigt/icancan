@@ -2,8 +2,7 @@
 Affordable DIY beer can seamer using 3D printed parts and a cheap drillpress.
 
 
-## H2
-Hardware store shopping list:
+## Hardware store shopping list:
 
 1m M12 threaded rod, cut into 2x350mm and 2x 150mm
 
@@ -17,7 +16,6 @@ Assembly for chuck (I used this one: http://www.biltema.no/no/Verktoy/Slipe-og-k
 
 4x 8x22x7 Bearings for rolls (http://www.biltema.no/no/Bil---MC/Laste-og-Trekke/Tilhenger/Reservedeler/Kulelager-2000019337/?artId=41450)
 
-## H2
-Printer settings:
+## Printer settings:
 Most parts printed with 30-40% infill, 0.3mm layer height.
 Rolls and chuck will be printed with higher innfill and thicker walls.
