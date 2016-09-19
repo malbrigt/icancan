@@ -19,3 +19,10 @@ Assembly for chuck (I used this one: http://www.biltema.no/no/Verktoy/Slipe-og-k
 ## Printer settings:
 Most parts printed with 30-40% infill, 0.3mm layer height.
 Rolls and chuck will be printed with higher innfill and thicker walls.
+
+## Drillpress
+Plans are made to fit a cheap drillpress from Jula, available in the Scandinavian countries. Modify as you please to fit whatever is available to you.
+
+
+http://www.jula.no/catalog/verktoy-og-maskiner/el-verktoy-og-maskiner/boremaskiner/stasjonare-boremaskiner/soyleboremaskin-254017/
+
